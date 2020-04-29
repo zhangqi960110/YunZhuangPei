@@ -8,11 +8,11 @@
 
 #### 学习培训
 
-![image](https://github.com/zhangqi960110/YunZhuangPei/raw/master/screenshot/pic2.jpg)
+![image](https://github.com/zhangqi960110/YunZhuangPei/raw/master/screenshot/pic3.jpg)
  
 #### 专家咨询
 
-![image](https://github.com/zhangqi960110/YunZhuangPei/raw/master/screenshot/pic3.jpg)
+![image](https://github.com/zhangqi960110/YunZhuangPei/raw/master/screenshot/pic2.jpg)
 
 #### 问题检索
 
