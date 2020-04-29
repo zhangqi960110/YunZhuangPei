@@ -1,0 +1,174 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/personal_center"
+            android:textColor="@color/color_13386d"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_e2e2e2" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="96dp"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp">
+
+                <com.pcassem.yunzhuangpei.view.CircleImageView
+                    android:id="@+id/personal_head_picture"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/personal_head_picture"
+                    app:border_color="@color/color_999999"
+                    app:border_width="1dp" />
+
+                <TextView
+                    android:id="@+id/personal_jump_login_activity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="14dp"
+                    android:layout_toRightOf="@+id/personal_head_picture"
+                    android:text="未登录"
+                    android:textColor="@color/color_666666"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/personal_jump_personal_infomation_activity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="4dp"
+                    android:layout_toLeftOf="@+id/personal_right_jump"
+                    android:text="编辑个人信息"
+                    android:textColor="@color/color_666666"
+                    android:textSize="14sp"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/personal_right_jump"
+                    android:layout_width="13dp"
+                    android:layout_height="22dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/personal_right_jump"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/color_f2f2f2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_my_project_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_project"
+                app:text_view="我的项目" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_e2e2e2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_my_download_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_download"
+                app:text_view="我的下载" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_e2e2e2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_my_advisory_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_consult"
+                app:text_view="我的咨询" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_e2e2e2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_my_collection_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_collect"
+                app:text_view="我的收藏" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_e2e2e2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_my_training_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_courase"
+                app:text_view="我的培训" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/color_f2f2f2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_help_info_activity"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_help"
+                app:text_view="帮助信息" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@color/color_f2f2f2" />
+
+            <com.pcassem.yunzhuangpei.view.ItemPersonalList
+                android:id="@+id/personal_jump_system_settings"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                app:image_view="@drawable/personal_setting"
+                app:text_view="系统设置" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_e2e2e2" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

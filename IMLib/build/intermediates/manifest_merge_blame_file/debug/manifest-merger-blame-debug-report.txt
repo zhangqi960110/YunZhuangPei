@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.imlib"
+4    android:versionCode="2017112916"
+5    android:versionName="2.8.23 Stable" >
+6
+7    <uses-sdk
+7-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+8        android:minSdkVersion="15"
+8-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+9        android:targetSdkVersion="28" />
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:15-44
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:6:5-81
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:7:5-67
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:8:5-79
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:9:5-76
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:10:5-75
+15-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:10:22-72
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:11:5-71
+16-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:11:22-68
+17    <uses-permission android:name="android.permission.GET_TASKS" />
+17-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:12:5-68
+17-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:13:5-68
+18-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+19-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:14:5-80
+19-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:14:22-77
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:15:5-66
+20-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:15:22-63
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:16:5-79
+21-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:16:22-76
+22    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+22-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:17:5-81
+22-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:17:22-78
+23
+24    <application>
+24-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:19:5-89:19
+25
+26        <!-- imlib config begin -->
+27        <meta-data
+27-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:22:9-24:45
+28            android:name="RONG_CLOUD_APP_KEY"
+28-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:23:13-46
+29            android:value="8luwapkv8rqml" />
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:24:13-42
+30
+31        <service
+31-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:26:9-29:38
+32            android:name="io.rong.imlib.ipc.RongService"
+32-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:27:13-57
+33            android:exported="true"
+33-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:28:13-36
+34            android:process=":ipc" />
+34-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:29:13-35
+35        <service
+35-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:31:9-32:38
+36            android:name="io.rong.imlib.ReConnectService"
+36-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:31:18-63
+37            android:exported="true" />
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:32:13-36
+38
+39        <receiver
+39-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:34:9-35:38
+40            android:name="io.rong.imlib.ConnectChangeReceiver"
+40-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:34:19-69
+41            android:exported="true" />
+41-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:35:13-36
+42        <receiver
+42-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:37:9-39:38
+43            android:name="io.rong.imlib.HeartbeatReceiver"
+43-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:38:13-59
+44            android:process=":ipc" />
+44-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:39:13-35
+45        <!-- imlib config end -->
+46
+47
+48        <!-- 必选： SDK 核心功能 -->
+49        <!-- 第三方相关,向第三方推送服务请求 token 的服务 -->
+50        <service
+50-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:45:9-48:19
+51            android:name="io.rong.push.core.PushRegistrationService"
+51-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:46:13-69
+52            android:exported="false" >
+52-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:47:13-37
+53        </service>
+54
+55        <!-- 处理 push 消息相关的服务 -->
+56        <service
+56-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:51:9-54:19
+57            android:name="io.rong.push.core.MessageHandleService"
+57-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:52:13-66
+58            android:exported="true" >
+58-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:53:13-36
+59        </service>
+60
+61        <!-- push服务 -->
+62        <service
+62-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:57:9-61:19
+63            android:name="io.rong.push.PushService"
+63-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:58:13-52
+64            android:exported="true"
+64-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:59:13-36
+65            android:process="io.rong.push" > <!-- push进程，可以改名 -->
+65-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:60:13-43
+66        </service>
+67
+68        <!-- push 相关事件接收器 -->
+69        <receiver
+69-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:64:9-84:20
+70            android:name="io.rong.push.PushReceiver"
+70-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:65:13-53
+71            android:process="io.rong.push" > <!-- 此处进程可以改名，名称需要和PushService所在进程统一 -->
+71-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:66:13-43
+72            <!-- 心跳事件 -->
+73            <intent-filter>
+73-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:68:13-70:29
+74                <action android:name="io.rong.push.intent.action.HEART_BEAT" />
+74-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:69:17-80
+74-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:69:25-77
+75            </intent-filter>
+76            <!-- 网络变动事件 -->
+77            <intent-filter>
+77-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:72:13-74:29
+78                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+78-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:73:17-79
+78-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:73:25-76
+79            </intent-filter>
+80            <!-- 部分用户事件 -->
+81            <intent-filter>
+81-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:76:13-78:29
+82                <action android:name="android.intent.action.BOOT_COMPLETED" />
+82-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:77:17-79
+82-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:77:25-76
+83            </intent-filter>
+84            <intent-filter>
+84-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:79:13-83:29
+85                <action android:name="android.intent.action.USER_PRESENT" />
+85-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:80:17-77
+85-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:80:25-74
+86                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+86-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:81:17-87
+86-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:81:25-84
+87                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+87-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:82:17-90
+87-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:82:25-87
+88            </intent-filter>
+89        </receiver>
+90
+91        <!-- 必选： SDK 核心功能 -->
+92
+93
+94        <!-- end -->
+95    </application>
+96
+97</manifest>

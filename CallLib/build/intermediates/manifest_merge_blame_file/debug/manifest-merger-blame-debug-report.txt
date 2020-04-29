@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.calllib"
+4    android:versionCode="2017120716"
+5    android:versionName="2.8.24 Dev" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:5:5-8:19
+12    </application>
+13
+14</manifest>

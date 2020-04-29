@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">云装配</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="latest_news">最新咨讯</string>
+    <string name="all_news">全部资讯</string>
+    <string name="selectexport">选择专家</string>
+    <string name="pic_zixun_example">远大住工的全装配式别墅产品\"枫丹白露\"正式上市</string>
+    <string name="personal_center">个人中心</string>
+    <string name="enter_information_keywords">输入资讯关键字</string>
+    <string name="course_edtails">课程详情</string>
+
+    <string name="description"></string>
+
+</resources>

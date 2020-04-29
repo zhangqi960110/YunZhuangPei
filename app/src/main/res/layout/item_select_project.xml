@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_ffffff">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp"
+        android:paddingTop="10dp">
+        <TextView
+            android:id="@+id/project_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上海宝龙广场项目"
+            android:textSize="16sp"
+            android:textColor="@color/color_333333"/>
+
+        <TextView
+            android:id="@+id/project_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="湖南省-长沙市"
+            android:textSize="16sp"
+            android:textColor="@color/color_666666"
+            android:layout_below="@+id/project_name"
+            android:layout_marginTop="6dp"/>
+
+        <Button
+            android:id="@+id/select_button"
+            android:layout_width="50dp"
+            android:layout_height="24dp"
+            android:text="选择"
+            android:textColor="@color/color_ffffff"
+            android:textSize="12sp"
+            android:background="@drawable/home_advisory_button"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:id="@+id/is_default"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="默认项目"
+            android:textSize="12dp"
+            android:textColor="@color/color_ff0000"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/select_button"
+            android:layout_marginTop="4dp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</LinearLayout>

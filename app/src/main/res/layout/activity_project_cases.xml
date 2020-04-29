@@ -1,0 +1,219 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_ffffff"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp">
+
+        <LinearLayout
+            android:id="@+id/navigation_select_btn"
+            android:layout_width="34dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/select_image_view"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/training_more_highlight"
+                android:visibility="visible" />
+
+            <LinearLayout
+                android:id="@+id/select_buinding"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:background="@drawable/building_highlight" />
+
+                <TextView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="高层"
+                    android:textColor="@color/color_13386d"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/select_tunnel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:background="@drawable/tunnel_highlight" />
+
+                <TextView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="管廊"
+                    android:textColor="@color/color_13386d"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <EditText
+            android:id="@+id/search_project_case"
+            android:layout_width="match_parent"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/home_search_frame"
+            android:drawableRight="@drawable/icon_search"
+            android:hint="输入搜索关键字"
+            android:maxLength="15"
+            android:maxLines="1"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:textColor="@color/color_cccccc"
+            android:textCursorDrawable="@null"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_999999" />
+
+    <LinearLayout
+        android:id="@+id/select_first_content"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:paddingTop="8dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:id="@+id/select_first_buinding"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="18dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/building_iv"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/building" />
+
+            <TextView
+                android:id="@+id/building_tv"
+                android:layout_width="32dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="高层"
+                android:textColor="@color/color_999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/select_first_tunnel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/tunnel_iv"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/tunnel" />
+
+            <TextView
+                android:id="@+id/tunnel_tv"
+                android:layout_width="32dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="管廊"
+                android:textColor="@color/color_999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_999999" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="项目案例"
+            android:textSize="16sp"
+            android:textColor="@color/color_13386d"
+            android:layout_marginLeft="4dp"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_999999" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="6dp"
+            android:text="全部案例"
+            android:textColor="@color/color_13386d"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/all_news_underline"
+            android:layout_width="wrap_content"
+            android:layout_height="1px"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="3dp"
+            android:background="@color/color_13386d"
+            android:text="全部案例"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_dedede" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/all_news_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:nestedScrollingEnabled="false"
+        android:scrollbars="vertical" />
+
+</LinearLayout>

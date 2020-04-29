@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="42dp">
+
+    <TextView
+        android:id="@+id/tags"
+        android:layout_width="34dp"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:text="2-1"
+        android:textSize="12sp"
+        android:textColor="@color/color_ffffff"
+        android:background="@drawable/submit_style"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="高层建筑装配过程标准流程和规范"
+        android:textSize="14sp"
+        android:singleLine="true"
+        android:maxEms="18"
+        android:textColor="@color/color_333333"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/tags"
+        android:layout_marginLeft="6dp"/>
+
+    <ImageView
+        android:id="@+id/next"
+        android:layout_width="13dp"
+        android:layout_height="22dp"
+        android:src="@drawable/personal_right_jump"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:visibility="visible"/>
+
+</RelativeLayout>

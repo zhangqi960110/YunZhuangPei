@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+	package
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:1-91:12
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+	android:targetSdkVersion
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:15-44
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:17:22-78
+application
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:19:5-89:19
+meta-data#RONG_CLOUD_APP_KEY
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:22:9-24:45
+	android:value
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:24:13-42
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:23:13-46
+service#io.rong.imlib.ipc.RongService
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:26:9-29:38
+	android:process
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:27:13-57
+service#io.rong.imlib.ReConnectService
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:31:9-32:38
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:31:18-63
+receiver#io.rong.imlib.ConnectChangeReceiver
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:34:9-35:38
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:34:19-69
+receiver#io.rong.imlib.HeartbeatReceiver
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:37:9-39:38
+	android:process
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:39:13-35
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:38:13-59
+service#io.rong.push.core.PushRegistrationService
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:45:9-48:19
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:46:13-69
+service#io.rong.push.core.MessageHandleService
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:51:9-54:19
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:52:13-66
+service#io.rong.push.PushService
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:57:9-61:19
+	android:process
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:60:13-43
+	android:exported
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:58:13-52
+receiver#io.rong.push.PushReceiver
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:64:9-84:20
+	android:process
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:66:13-43
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:65:13-53
+intent-filter#action:name:io.rong.push.intent.action.HEART_BEAT
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:68:13-70:29
+action#io.rong.push.intent.action.HEART_BEAT
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:69:17-80
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:69:25-77
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:72:13-74:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:73:17-79
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:73:25-76
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:76:13-78:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:77:25-76
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.USER_PRESENT
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:79:13-83:29
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:80:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:81:17-87
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:81:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:82:17-90
+	android:name
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/AndroidManifest.xml:82:25-87

@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.callkit"
+4    android:versionCode="2017120716"
+5    android:versionName="2.8.24 Dev" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="23" />
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:4:5-81
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:5:5-85
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:5:22-82
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:6:5-78
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:6:22-75
+14
+15    <application>
+15-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:8:5-50:19
+16        <activity
+16-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:9:9-19:20
+17            android:name="io.rong.callkit.MultiVideoCallActivity"
+17-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:10:13-51
+18            android:exported="false"
+18-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:14:13-37
+19            android:launchMode="singleTop"
+19-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:11:13-43
+20            android:screenOrientation="portrait"
+20-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:12:13-49
+21            android:windowSoftInputMode="stateHidden|adjustResize" >
+21-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:13:13-67
+22            <intent-filter>
+22-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:15:13-18:29
+23                <action android:name="io.rong.intent.action.voip.MULTIVIDEO" />
+23-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:16:17-80
+23-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:16:25-77
+24
+25                <category android:name="android.intent.category.DEFAULT" />
+25-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:17-76
+25-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:27-73
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:21:9-35:20
+29            android:name="io.rong.callkit.SingleCallActivity"
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:22:13-47
+30            android:exported="false"
+30-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:26:13-37
+31            android:launchMode="singleTop"
+31-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:23:13-43
+32            android:screenOrientation="portrait"
+32-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:24:13-49
+33            android:windowSoftInputMode="stateHidden|adjustResize" >
+33-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:25:13-67
+34            <intent-filter>
+34-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:27:13-30:29
+35                <action android:name="io.rong.intent.action.voip.SINGLEVIDEO" />
+35-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:28:17-81
+35-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:28:25-78
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:17-76
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:27-73
+38            </intent-filter>
+39            <intent-filter>
+39-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:31:13-34:29
+40                <action android:name="io.rong.intent.action.voip.SINGLEAUDIO" />
+40-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:32:17-81
+40-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:32:25-78
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:17-76
+42-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:27-73
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:36:9-46:20
+46            android:name="io.rong.callkit.MultiAudioCallActivity"
+46-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:37:13-51
+47            android:exported="false"
+47-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:41:13-37
+48            android:launchMode="singleTop"
+48-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:38:13-43
+49            android:screenOrientation="portrait"
+49-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:39:13-49
+50            android:windowSoftInputMode="stateHidden|adjustResize" >
+50-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:40:13-67
+51            <intent-filter>
+51-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:42:13-45:29
+52                <action android:name="io.rong.intent.action.voip.MULTIAUDIO" />
+52-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:43:17-80
+52-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:43:25-77
+53
+54                <category android:name="android.intent.category.DEFAULT" />
+54-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:17-76
+54-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:17:27-73
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="io.rong.callkit.CallSelectMemberActivity" />
+57-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:48:9-62
+57-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/src/main/AndroidManifest.xml:48:19-59
+58    </application>
+59
+60</manifest>

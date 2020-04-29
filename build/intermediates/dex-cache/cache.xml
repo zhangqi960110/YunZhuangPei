@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f543fd4e4216a32e304622aad34fc2574465360">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_4dec87c5c467329c4514c189fb8e43aba65cc898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/libs/Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdd75f5723831f5b486df64543952af1f9bf91a4">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_14fdf115cdcdaf23ddb1f0c747ece258ed13a1cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/build/intermediates/bundles/default/libs/agora-rtc-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="845240d82e1851e05964aafc93fe80737238f29d">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/8/agora-rtc-sdk_0b69a82d4c30cb773c5ae68928a4ba5782296825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/bundles/default/libs/Rong_IMKit.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2493479589ecd6e0af93896070b412766c6bca7c">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMKit_99539fee82f546f40299c1cbea7072761d0c1491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/build/intermediates/bundles/default/libs/Rong_CallLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18ae4d90e76575a960027a385558b3843d51c4f0">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_CallLib_2c380cb376f8821c99df282b00d48235a1001d06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/build/intermediates/bundles/default/libs/CallEngine_Agora.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce86e757e5632faac9e7b38fcdd61433c2548196">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/8/CallEngine_Agora_bd7710a01a045c5e7b9cf963194bd23114dce270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1627ab500144879dc3c1ed113ee13ee28de9d35">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_1d65bde63aa372ec83dcb4e70a863014475b6c5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="80b281a18874b154a3f9bc4022f05a3af7f9c909">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_ef64502aba65964d9615ed22fe413193d2dbf9a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/bundles/default/libs/Rong_IMLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc5ba7a532226456f1bd3dc753116c51cbedd7c6">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMLib_8ff96e269f260901933e7daa514805c697704922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f80da2ffc84fd080d14d428852aec4a6c7b3a0">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_7e2222fc07f7a4b9fa4cdef351e1b21cf1deae0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d090916c1cc806044ad712fee6354ecab350ee7">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_fe5f9786713c4f244682bc1b099fc2ce51b9cd8c/classes.dex" />
+    </item>
+
+</items>

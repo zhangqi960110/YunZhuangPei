@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_news"
+    android:layout_width="match_parent"
+    android:layout_height="88dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_marginLeft="14dp"
+    android:layout_marginRight="14dp">
+
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/news_icon"
+        android:layout_width="120dp"
+        android:layout_height="80dp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:id="@+id/news_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@string/pic_zixun_example"
+            android:textColor="@color/color_000000"
+            android:textSize="14sp"
+            android:layout_marginLeft="12dp"/>
+
+        <TextView
+            android:id="@+id/news_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:text="2017年11月20日"
+            android:textSize="10sp"
+            android:layout_marginLeft="12dp"/>
+
+        <TextView
+            android:id="@+id/news_read_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:text="阅读102次"
+            android:textSize="10sp" />
+
+    </RelativeLayout>
+</LinearLayout>

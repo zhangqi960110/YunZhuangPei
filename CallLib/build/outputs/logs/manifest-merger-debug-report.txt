@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml:5:5-8:19
+uses-sdk
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		ADDED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml
+		INJECTED from /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallLib/AndroidManifest.xml

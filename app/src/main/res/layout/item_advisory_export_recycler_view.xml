@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="96dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:paddingLeft="14dp"
+    android:layout_marginRight="14dp"
+    android:orientation="horizontal">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/export_icon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/export_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="@color/color_13386d"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="2dp"/>
+
+        <TextView
+            android:id="@+id/export_company"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/color_999999"
+            android:layout_below="@+id/export_name"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="2dp"/>
+
+        <TextView
+            android:id="@+id/export_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/color_999999"
+            android:layout_below="@+id/export_company"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="2dp" />
+
+        <TextView
+            android:id="@+id/export_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="8sp"
+            android:textColor="@color/color_999999"
+            android:layout_toLeftOf="@+id/export_is_online"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"/>
+
+        <TextView
+            android:id="@+id/export_is_book"
+            android:layout_width="80dp"
+            android:layout_height="16dp"
+            android:text="接受预约现场"
+            android:textSize="9sp"
+            android:textColor="@color/color_13386d"
+            android:background="@drawable/advisory_export_accept_btn"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="2dp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/export_is_online"
+            android:layout_width="80dp"
+            android:layout_height="16dp"
+            android:text="接受在线支持"
+            android:textSize="9sp"
+            android:textColor="@color/color_13386d"
+            android:background="@drawable/advisory_export_accept_btn"
+            android:layout_below="@+id/export_is_book"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="4dp"
+            android:gravity="center"/>
+
+        <com.pcassem.yunzhuangpei.view.FlowLayout
+            android:id="@+id/export_domains"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

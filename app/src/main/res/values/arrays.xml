@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tags_width">
+        <item>37</item>
+        <item>48</item>
+        <item>62</item>
+        <item>70</item>
+        <item>81</item>
+        <item>92</item>
+        <item>103</item>
+        <item>114</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="53dp"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    tools:showIn="@layout/activity_home">
+
+    <TextView
+        android:id="@+id/home_advisory"
+        style="@style/bottom_navigation_bar_style"
+        android:drawableTop="@drawable/btm_nav_advisory"
+        android:text="专家咨询" />
+
+    <TextView
+        android:id="@+id/home_training"
+        style="@style/bottom_navigation_bar_style"
+        android:drawableTop="@drawable/btm_nav_training"
+        android:text="学习培训" />
+
+    <ImageView
+        android:id="@+id/home_home"
+        style="@style/bottom_navigation_bar_style"
+        android:src="@drawable/btm_nav_home" />
+
+    <TextView
+        android:id="@+id/home_forum"
+        style="@style/bottom_navigation_bar_style"
+        android:drawableTop="@drawable/btm_nav_forum"
+        android:text="技术论坛" />
+
+    <TextView
+        android:id="@+id/home_personal"
+        style="@style/bottom_navigation_bar_style"
+        android:drawableTop="@drawable/btm_nav_personal"
+        android:text="个人中心" />
+</LinearLayout>

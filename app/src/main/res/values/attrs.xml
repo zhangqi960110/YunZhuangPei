@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--个人中心item-->
+    <declare-styleable name="PersonalItem">
+        <attr name="image_view" format="integer" />
+        <attr name="text_view" format="string" />
+    </declare-styleable>
+
+    <!--圆形头像-->
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+</resources>

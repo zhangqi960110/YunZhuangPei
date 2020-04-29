@@ -1,0 +1,375 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.callkit.test" >
+4
+5    <uses-sdk
+5-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:5:15-41
+7        android:targetSdkVersion="23" />
+7-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:11:5-15:70
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:13:22-53
+13        android:label="Tests for io.rong.callkit.test"
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:15:22-68
+14        android:targetPackage="io.rong.callkit.test" />
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:12:22-66
+15
+16    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+16-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+16-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+17-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-85
+17-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-82
+18    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+18-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-78
+18-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-75
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+19-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+20-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-78
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-67
+21-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-64
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-79
+22-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-76
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-81
+23-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-78
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 获取机型信息权限 -->
+24-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-76
+24-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-73
+25    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 录音 -->
+25-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-75
+25-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-72
+26    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+26-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-71
+26-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-68
+27    <uses-permission android:name="android.permission.GET_TASKS" />
+27-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-68
+27-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:22-65
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-68
+28-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:22-65
+29    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+29-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-80
+29-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:22-77
+30    <uses-permission android:name="android.permission.VIBRATE" />
+30-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-66
+30-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:22-63
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-65
+31-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:22-62
+32    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+32-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-73
+32-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:22-70
+33    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+33-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-76
+33-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:22-73
+34    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+34-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-79
+34-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-76
+35    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+35-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-81
+35-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:22-78
+36
+37    <application android:debuggable="true" >
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:7:5-9:19
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:7:18-43
+38        <uses-library android:name="android.test.runner" />
+38-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:8:9-60
+38-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6210660001436840212.xml:8:23-57
+39
+40        <activity
+40-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-27:20
+41            android:name="io.rong.callkit.MultiVideoCallActivity"
+41-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-66
+42            android:exported="false"
+42-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+43            android:launchMode="singleTop"
+43-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-43
+44            android:screenOrientation="portrait"
+44-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-49
+45            android:windowSoftInputMode="stateHidden|adjustResize" >
+45-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-67
+46            <intent-filter>
+46-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-26:29
+47                <action android:name="io.rong.intent.action.voip.MULTIVIDEO" />
+47-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:17-80
+47-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:25-77
+48
+49                <category android:name="android.intent.category.DEFAULT" />
+49-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+49-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-44:20
+53            android:name="io.rong.callkit.SingleCallActivity"
+53-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-62
+54            android:exported="false"
+54-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-37
+55            android:launchMode="singleTop"
+55-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-43
+56            android:screenOrientation="portrait"
+56-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-49
+57            android:windowSoftInputMode="stateHidden|adjustResize" >
+57-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-67
+58            <intent-filter>
+58-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-38:29
+59                <action android:name="io.rong.intent.action.voip.SINGLEVIDEO" />
+59-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-81
+59-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:25-78
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+61-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+62            </intent-filter>
+63            <intent-filter>
+63-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-43:29
+64                <action android:name="io.rong.intent.action.voip.SINGLEAUDIO" />
+64-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:17-81
+64-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:25-78
+65
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+66-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+67            </intent-filter>
+68        </activity>
+69        <activity
+69-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-56:20
+70            android:name="io.rong.callkit.MultiAudioCallActivity"
+70-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-66
+71            android:exported="false"
+71-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-37
+72            android:launchMode="singleTop"
+72-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-43
+73            android:screenOrientation="portrait"
+73-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:13-49
+74            android:windowSoftInputMode="stateHidden|adjustResize" >
+74-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-67
+75            <intent-filter>
+75-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-55:29
+76                <action android:name="io.rong.intent.action.voip.MULTIAUDIO" />
+76-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:17-80
+76-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:25-77
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+78-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+79            </intent-filter>
+80        </activity>
+81        <activity android:name="io.rong.callkit.CallSelectMemberActivity" />
+81-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-77
+81-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:19-74
+82        <activity android:name="io.rong.imkit.plugin.location.AMapLocationActivity" />
+82-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-87
+82-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:19-84
+83        <activity android:name="io.rong.imkit.plugin.location.AMapPreviewActivity" />
+83-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-86
+83-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:19-83
+84        <activity android:name="io.rong.imkit.plugin.location.AMapRealTimeActivity" />
+84-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-87
+84-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:19-84
+85        <activity
+85-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:52
+86            android:name="io.rong.imkit.plugin.image.PictureSelectorActivity"
+86-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-78
+87            android:screenOrientation="portrait" />
+87-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-49
+88        <activity
+88-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:52
+89            android:name="io.rong.imkit.plugin.image.PicturePreviewActivity"
+89-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-77
+90            android:screenOrientation="portrait" /> <!-- 开发者可以修改 RongBaseActivity 的 rc_base_activity_layout 布局文件调整 actionbar -->
+90-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-49
+91        <activity
+91-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-53:20
+92            android:name="io.rong.imkit.tools.RongWebviewActivity"
+92-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-67
+93            android:screenOrientation="portrait" >
+93-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-49
+94            <intent-filter>
+94-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-52:29
+95                <action android:name="io.rong.imkit.intent.action.webview" />
+95-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-78
+95-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:25-75
+96
+97                <category android:name="android.intent.category.DEFAULT" />
+97-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+97-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+98            </intent-filter>
+99        </activity>
+100        <activity
+100-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-57:52
+101            android:name="io.rong.imkit.widget.provider.TakingPicturesActivity"
+101-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-80
+102            android:configChanges="orientation|keyboardHidden"
+102-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-63
+103            android:screenOrientation="portrait" />
+103-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-49
+104        <activity
+104-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:9-66:20
+105            android:name="io.rong.imkit.activity.PicturePagerActivity"
+105-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-71
+106            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+106-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:13-71
+107            <intent-filter>
+107-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-65:29
+108                <action android:name="io.rong.imkit.intent.action.picturepagerview" />
+108-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:17-87
+108-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:25-84
+109
+110                <category android:name="android.intent.category.DEFAULT" />
+110-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+110-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+111            </intent-filter>
+112        </activity>
+113        <activity
+113-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:9-70:67
+114            android:name="io.rong.imkit.mention.MemberMentionedActivity"
+114-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:13-73
+115            android:configChanges="orientation|keyboardHidden"
+115-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-63
+116            android:windowSoftInputMode="adjustPan|stateHidden" />
+116-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-64
+117        <activity android:name="io.rong.imkit.activity.FileManagerActivity" />
+117-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:9-79
+117-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:19-76
+118        <activity android:name="io.rong.imkit.activity.FileListActivity" />
+118-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:9-76
+118-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:19-73
+119        <activity android:name="io.rong.imkit.activity.FilePreviewActivity" >
+119-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:9-79:20
+119-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:19-76
+120            <intent-filter>
+120-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:13-78:29
+121                <action android:name="io.rong.imkit.intent.action.openfile" />
+121-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:17-79
+121-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:25-76
+122
+123                <category android:name="android.intent.category.DEFAULT" />
+123-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-76
+123-->[__tested_artifact__::CallKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/CallKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:27-73
+124            </intent-filter>
+125        </activity>
+126        <activity
+126-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:9-83:52
+127            android:name="io.rong.imkit.activity.CSLeaveMessageActivity"
+127-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-73
+128            android:configChanges="orientation|keyboardHidden"
+128-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-63
+129            android:screenOrientation="portrait" /> <!-- imlib config begin -->
+129-->[:IMKit] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:13-49
+130        <meta-data
+130-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-29:45
+131            android:name="RONG_CLOUD_APP_KEY"
+131-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-46
+132            android:value="8luwapkv8rqml" />
+132-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-42
+133
+134        <service
+134-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-34:38
+135            android:name="io.rong.imlib.ipc.RongService"
+135-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-57
+136            android:exported="true"
+136-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-36
+137            android:process=":ipc" />
+137-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-35
+138        <service
+138-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-37:39
+139            android:name="io.rong.imlib.ReConnectService"
+139-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-58
+140            android:exported="true" />
+140-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-36
+141
+142        <receiver
+142-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-41:39
+143            android:name="io.rong.imlib.ConnectChangeReceiver"
+143-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-63
+144            android:exported="true" />
+144-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-36
+145        <receiver
+145-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-44:38
+146            android:name="io.rong.imlib.HeartbeatReceiver"
+146-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-59
+147            android:process=":ipc" /> <!-- imlib config end -->
+147-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-35
+148        <!-- 必选： SDK 核心功能 -->
+149        <!-- 第三方相关,向第三方推送服务请求 token 的服务 -->
+150        <service
+150-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:9-53:19
+151            android:name="io.rong.push.core.PushRegistrationService"
+151-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-69
+152            android:exported="false" >
+152-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-37
+153        </service> <!-- 处理 push 消息相关的服务 -->
+154        <service
+154-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-59:19
+155            android:name="io.rong.push.core.MessageHandleService"
+155-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-66
+156            android:exported="true" >
+156-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-36
+157        </service> <!-- push服务 -->
+158        <service
+158-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:9-66:19
+159            android:name="io.rong.push.PushService"
+159-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-52
+160            android:exported="true"
+160-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-36
+161            android:process="io.rong.push" > <!-- push进程，可以改名 -->
+161-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:13-43
+162        </service> <!-- push 相关事件接收器 -->
+163        <receiver
+163-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:9-89:20
+164            android:name="io.rong.push.PushReceiver"
+164-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-53
+165            android:process="io.rong.push" > <!-- 此处进程可以改名，名称需要和PushService所在进程统一 -->
+165-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:13-43
+166            <!-- 心跳事件 -->
+167            <intent-filter>
+167-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-75:29
+168                <action android:name="io.rong.push.intent.action.HEART_BEAT" />
+168-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:17-80
+168-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:25-77
+169            </intent-filter>
+170            <!-- 网络变动事件 -->
+171            <intent-filter>
+171-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:13-79:29
+172                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+172-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:17-79
+172-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:25-76
+173            </intent-filter>
+174            <!-- 部分用户事件 -->
+175            <intent-filter>
+175-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-83:29
+176                <action android:name="android.intent.action.BOOT_COMPLETED" />
+176-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:17-79
+176-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:25-76
+177            </intent-filter>
+178            <intent-filter>
+178-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-88:29
+179                <action android:name="android.intent.action.USER_PRESENT" />
+179-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:17-77
+179-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:25-74
+180                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+180-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:17-87
+180-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:25-84
+181                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+181-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:17-90
+181-->[:IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:25-87
+182            </intent-filter>
+183        </receiver>
+184    </application>
+185
+186</manifest>

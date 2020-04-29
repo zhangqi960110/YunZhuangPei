@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.imkit"
+4    android:versionCode="2017112916"
+5    android:versionName="2.8.23 Stable" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:7:5-67
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:10:5-76
+16-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:10:22-73
+17    <!-- 获取机型信息权限 -->
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:12:5-75
+18-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:12:22-72
+19    <!-- 录音 -->
+20
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:15:5-71
+21-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:15:22-68
+22    <uses-permission android:name="android.permission.GET_TASKS" />
+22-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:16:5-68
+22-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:16:22-65
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:17:5-68
+23-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:17:22-65
+24    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+24-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:18:5-80
+24-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:18:22-77
+25    <uses-permission android:name="android.permission.VIBRATE" />
+25-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:19:5-66
+25-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:19:22-63
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:20:5-65
+26-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:20:22-62
+27    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+27-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:21:5-73
+27-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:21:22-70
+28    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+28-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:23:5-85
+28-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:23:22-82
+29    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:24:5-81
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:24:22-78
+30    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+30-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:25:5-78
+30-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:25:22-75
+31    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+31-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:26:5-75
+31-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:26:22-73
+32
+33    <application>
+33-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:28:5-97:19
+34        <activity android:name="io.rong.imkit.plugin.location.AMapLocationActivity" />
+34-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:30:9-87
+34-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:30:19-84
+35        <activity android:name="io.rong.imkit.plugin.location.AMapPreviewActivity" />
+35-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:32:9-86
+35-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:32:19-83
+36        <activity android:name="io.rong.imkit.plugin.location.AMapRealTimeActivity" />
+36-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:34:9-87
+36-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:34:19-84
+37        <activity
+37-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:36:9-38:52
+38            android:name="io.rong.imkit.plugin.image.PictureSelectorActivity"
+38-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:37:13-78
+39            android:screenOrientation="portrait" />
+39-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:38:13-49
+40        <activity
+40-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:40:9-42:52
+41            android:name="io.rong.imkit.plugin.image.PicturePreviewActivity"
+41-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:41:13-77
+42            android:screenOrientation="portrait" />
+42-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:42:13-49
+43
+44        <!-- 开发者可以修改 RongBaseActivity 的 rc_base_activity_layout 布局文件调整 actionbar -->
+45        <activity
+45-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:45:9-52:20
+46            android:name="io.rong.imkit.tools.RongWebviewActivity"
+46-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:46:13-67
+47            android:screenOrientation="portrait" >
+47-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:47:13-49
+48            <intent-filter>
+48-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:48:13-51:29
+49                <action android:name="io.rong.imkit.intent.action.webview" />
+49-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:49:17-78
+49-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:49:25-75
+50
+51                <category android:name="android.intent.category.DEFAULT" />
+51-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:17-76
+51-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:27-73
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:54:9-57:52
+55            android:name="io.rong.imkit.widget.provider.TakingPicturesActivity"
+55-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:55:13-80
+56            android:configChanges="orientation|keyboardHidden"
+56-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:56:13-63
+57            android:screenOrientation="portrait" />
+57-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:57:13-49
+58        <activity
+58-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:59:9-66:20
+59            android:name="io.rong.imkit.activity.PicturePagerActivity"
+59-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:60:13-71
+60            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+60-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:61:13-71
+61            <intent-filter>
+61-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:62:13-65:29
+62                <action android:name="io.rong.imkit.intent.action.picturepagerview" />
+62-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:63:17-87
+62-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:63:25-84
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:17-76
+64-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:27-73
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:68:9-71:67
+68            android:name="io.rong.imkit.mention.MemberMentionedActivity"
+68-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:69:13-73
+69            android:configChanges="orientation|keyboardHidden"
+69-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:70:13-63
+70            android:windowSoftInputMode="adjustPan|stateHidden" />
+70-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:71:13-64
+71        <activity android:name="io.rong.imkit.activity.FileManagerActivity" />
+71-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:72:9-79
+71-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:72:19-76
+72        <activity android:name="io.rong.imkit.activity.FileListActivity" />
+72-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:73:9-76
+72-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:73:19-73
+73        <activity android:name="io.rong.imkit.activity.FilePreviewActivity" >
+73-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:74:9-79:20
+73-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:74:19-76
+74            <intent-filter>
+74-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:75:9-78:25
+75                <action android:name="io.rong.imkit.intent.action.openfile" />
+75-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:76:13-75
+75-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:76:21-72
+76
+77                <category android:name="android.intent.category.DEFAULT" />
+77-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:17-76
+77-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:50:27-73
+78            </intent-filter>
+79        </activity>
+80        <activity
+80-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:81:9-84:51
+81            android:name="io.rong.imkit.activity.CSLeaveMessageActivity"
+81-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:82:13-60
+82            android:configChanges="orientation|keyboardHidden"
+82-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:83:13-63
+83            android:screenOrientation="portrait" />
+83-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMKit/src/main/AndroidManifest.xml:84:13-49
+84
+85        <!-- 此部分代码需要移植到您的 app 下的 manifest，并且 authorities 指定您的包名。例如：com.android.FileProvider -->
+86        <!-- 否则使用拍照功能时，会崩溃 -->
+87        <!-- <provider -->
+88        <!-- android:name="android.support.v4.content.FileProvider" -->
+89        <!-- android:authorities="包名.FileProvider" -->
+90        <!-- android:grantUriPermissions="true" -->
+91        <!-- android:exported="false"> -->
+92        <!-- <meta-data -->
+93        <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
+94        <!-- android:resource="@xml/rc_file_path"/> -->
+95        <!-- </provider> -->
+96    </application>
+97
+98</manifest>

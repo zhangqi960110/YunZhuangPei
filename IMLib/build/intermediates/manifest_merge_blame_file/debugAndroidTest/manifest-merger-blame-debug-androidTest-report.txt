@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.rong.imlib.test" >
+4
+5    <uses-sdk
+5-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:11:5-15:68
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:13:22-53
+13        android:label="Tests for io.rong.imlib.test"
+13-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:15:22-66
+14        android:targetPackage="io.rong.imlib.test" />
+14-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:12:22-64
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+16-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+17-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+18-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-76
+19-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-73
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-75
+20-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-72
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-71
+21-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-68
+22    <uses-permission android:name="android.permission.GET_TASKS" />
+22-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-68
+22-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:22-65
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-68
+23-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-65
+24    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+24-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-80
+24-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:22-77
+25    <uses-permission android:name="android.permission.VIBRATE" />
+25-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-66
+25-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:22-63
+26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+26-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-79
+26-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-76
+27    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+27-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-81
+27-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:22-78
+28
+29    <application android:debuggable="true" >
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:7:5-9:19
+29-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:7:18-43
+30        <uses-library android:name="android.test.runner" />
+30-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:8:9-60
+30-->/Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5123352475978144314.xml:8:23-57
+31        <!-- imlib config begin -->
+32        <meta-data
+32-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-29:45
+33            android:name="RONG_CLOUD_APP_KEY"
+33-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-46
+34            android:value="8luwapkv8rqml" />
+34-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-42
+35
+36        <service
+36-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-34:38
+37            android:name="io.rong.imlib.ipc.RongService"
+37-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-57
+38            android:exported="true"
+38-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-36
+39            android:process=":ipc" />
+39-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-35
+40        <service
+40-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-37:39
+41            android:name="io.rong.imlib.ReConnectService"
+41-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-58
+42            android:exported="true" />
+42-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-36
+43
+44        <receiver
+44-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-41:39
+45            android:name="io.rong.imlib.ConnectChangeReceiver"
+45-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-63
+46            android:exported="true" />
+46-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-36
+47        <receiver
+47-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-44:38
+48            android:name="io.rong.imlib.HeartbeatReceiver"
+48-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-59
+49            android:process=":ipc" /> <!-- imlib config end -->
+49-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-35
+50        <!-- 必选： SDK 核心功能 -->
+51        <!-- 第三方相关,向第三方推送服务请求 token 的服务 -->
+52        <service
+52-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:9-53:19
+53            android:name="io.rong.push.core.PushRegistrationService"
+53-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:13-69
+54            android:exported="false" >
+54-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-37
+55        </service> <!-- 处理 push 消息相关的服务 -->
+56        <service
+56-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-59:19
+57            android:name="io.rong.push.core.MessageHandleService"
+57-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-66
+58            android:exported="true" >
+58-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-36
+59        </service> <!-- push服务 -->
+60        <service
+60-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:9-66:19
+61            android:name="io.rong.push.PushService"
+61-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-52
+62            android:exported="true"
+62-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-36
+63            android:process="io.rong.push" > <!-- push进程，可以改名 -->
+63-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:13-43
+64        </service> <!-- push 相关事件接收器 -->
+65        <receiver
+65-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:9-89:20
+66            android:name="io.rong.push.PushReceiver"
+66-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-53
+67            android:process="io.rong.push" > <!-- 此处进程可以改名，名称需要和PushService所在进程统一 -->
+67-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:13-43
+68            <!-- 心跳事件 -->
+69            <intent-filter>
+69-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-75:29
+70                <action android:name="io.rong.push.intent.action.HEART_BEAT" />
+70-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:17-80
+70-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:25-77
+71            </intent-filter>
+72            <!-- 网络变动事件 -->
+73            <intent-filter>
+73-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:13-79:29
+74                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+74-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:17-79
+74-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:25-76
+75            </intent-filter>
+76            <!-- 部分用户事件 -->
+77            <intent-filter>
+77-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:13-83:29
+78                <action android:name="android.intent.action.BOOT_COMPLETED" />
+78-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:17-79
+78-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:25-76
+79            </intent-filter>
+80            <intent-filter>
+80-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-88:29
+81                <action android:name="android.intent.action.USER_PRESENT" />
+81-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:17-77
+81-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:25-74
+82                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+82-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:17-87
+82-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:25-84
+83                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+83-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:17-90
+83-->[__tested_artifact__::IMLib] /Users/zhangqi/MyDocument/Projects/YunZhuangPei/YunZhuangPei/IMLib/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:25-87
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>

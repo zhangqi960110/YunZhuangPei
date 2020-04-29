@@ -1,0 +1,1369 @@
+{
+  "title": "分类",
+  "nexts": [
+    {
+      "title": "工艺流程",
+      "id": "A",
+      "nexts": [
+        {
+          "title": "模版资料",
+          "id": "A1",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "验收阶段",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "验收流程",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收资料",
+                      "id": "SL2",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "验收阶段",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "验收流程",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收资料",
+                      "id": "SL2",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "施工指南",
+          "id": "A2",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "验收阶段",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "验收流程",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收资料",
+                      "id": "SL2",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "验收阶段",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "验收流程",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收资料",
+                      "id": "SL2",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "问题解答",
+      "id": "B",
+      "nexts": [
+        {
+          "title": "常见问题",
+          "id": "B1",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "渗水",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "卫生间",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "阳台",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "厨房",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "屋面",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "开裂",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "外挂板",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙板",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙板",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合楼板",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL5",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "节点处理",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "主次梁",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "梁、柱",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "梁、板",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "剪力墙、柱",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "构建安装",
+                  "id": "FL4",
+                  "nexts": [
+                    {
+                      "title": "外挂板",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙板",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合梁",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合板",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "其他",
+                  "id": "FL5",
+                  "nexts": []
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "渗水",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "卫生间",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "阳台",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "厨房",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "屋面",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "开裂",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "外挂板",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙板",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙板",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合楼板",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL5",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "节点处理",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "主次梁",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "梁、柱",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "梁、板",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "剪力墙、柱",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "构建安装",
+                  "id": "FL4",
+                  "nexts": [
+                    {
+                      "title": "外挂板",
+                      "id": "SL1",
+                      "nexts": []
+                    },
+                    {
+                      "title": "外墙板",
+                      "id": "SL2",
+                      "nexts": []
+                    },
+                    {
+                      "title": "内、隔墙",
+                      "id": "SL3",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合梁",
+                      "id": "SL4",
+                      "nexts": []
+                    },
+                    {
+                      "title": "叠合板",
+                      "id": "SL5",
+                      "nexts": []
+                    },
+                    {
+                      "title": "其他",
+                      "id": "SL6",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "其他",
+                  "id": "FL5",
+                  "nexts": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "分项工程",
+          "id": "B2",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "施工前准备阶段",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计识图",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "工艺方面",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "建筑结构",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工策划",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "施工组织策划",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "专项施工方案",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "施工工具",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "工具",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "机械设备",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "施工阶段",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "基础阶段",
+                      "id": "SL1",
+                      "nexts": [
+                        {
+                          "title": "质量验收",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "结合层",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "主体阶段",
+                      "id": "SL2",
+                      "nexts": [
+                        {
+                          "title": "分项施工工艺",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "施工节点",
+                          "id": "TL2",
+                          "nexts": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "装修阶段",
+                      "id": "SL3",
+                      "nexts": [
+                        {
+                          "title": "屋面防水",
+                          "id": "TL1",
+                          "nexts": []
+                        },
+                        {
+                          "title": "外墙防水",
+                          "id": "TL2",
+                          "nexts": []
+                        },
+                        {
+                          "title": "内墙拼缝处理",
+                          "id": "TL3",
+                          "nexts": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "规范政策",
+      "id": "C",
+      "nexts": [
+        {
+          "title": "标准规范",
+          "id": "C1",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "国家标准",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "行业标准",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "地方标准",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "国家标准",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "行业标准",
+                  "id": "FL2",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                },
+                {
+                  "title": "地方标准",
+                  "id": "FL3",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "政策文件",
+          "id": "C2",
+          "nexts": [
+            {
+              "title": "高层",
+              "id": "C1",
+              "nexts": [
+                {
+                  "title": "地方政策",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "管廊",
+              "id": "C2",
+              "nexts": [
+                {
+                  "title": "地方政策",
+                  "id": "FL1",
+                  "nexts": [
+                    {
+                      "title": "设计规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "生产规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "施工规范",
+                      "id": "",
+                      "nexts": []
+                    },
+                    {
+                      "title": "验收规范",
+                      "id": "",
+                      "nexts": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
